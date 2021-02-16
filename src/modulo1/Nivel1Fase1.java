@@ -8,8 +8,8 @@ public class Nivel1Fase1 {
 		String apellido1 = "Liffschitz";
 		String apellido2 = "Cohan";
 		
-		System.out.println("El nombre completo es:  "+ nombre + " "+apellido1+" "+ apellido2);
-		System.out.println("El nombre completo es:  "+ nombre + "/"+apellido1+"/"+ apellido2);		
+		System.out.println("El nombre completo es: "+ nombre + " "+apellido1+" "+ apellido2);
+		System.out.println("El nombre completo es: "+ nombre + "/"+apellido1+"/"+ apellido2);		
 		
 
 	}

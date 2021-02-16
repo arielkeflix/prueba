@@ -14,7 +14,7 @@ public class Nivel1Fase2 {
 		}
 		bisiestos = cantBisiestos;
 
-		System.out.println("La cantidad de bisiestos desde 1948 hasta mi año de nacimiento son:  " + bisiestos);
+		System.out.println("La cantidad de bisiestos desde 1948 hasta mi año de nacimiento son: " + bisiestos);
 
 	}
 

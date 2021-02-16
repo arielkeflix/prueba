@@ -19,7 +19,7 @@ public class Nivel3 {
 		}
 		
 		System.out.println();
-		System.out.println(" El array girado de atras hacia adelante quedaria asi:  ");
+		System.out.println(" El array girado de atras hacia adelante quedaria asi: ");
 		
 		for (int x = 0; x < array.length; x++) {
 			System.out.print( array[x] +", ");

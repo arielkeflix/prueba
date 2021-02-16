@@ -23,7 +23,7 @@ public class Nivel1Fase4 {
 		
 
 		System.out.println("Mi nombre es:" + nombreCompleto);
-		System.out.println("Mi fecha de nacimiento es:" + fechaNacimiento);
+		System.out.println("Mi fecha de nacimiento es: " + fechaNacimiento);
 		if (esBisMiNacimiento)
 			System.out.println(fraseSi);
 		else
