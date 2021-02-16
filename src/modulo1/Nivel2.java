@@ -13,10 +13,10 @@ public class Nivel2 {
 		varFloat = (float) varDouble;
 		varString = String.valueOf(varDouble);
 		
-		System.out.println("El valor de la variable double es: " + varDouble);
-		System.out.println("Convirtiéndola a un int el valor es : " + varInt);
-		System.out.println("Convirtiéndola a un float el valor es : " + varFloat);
-		System.out.println("Convirtiéndola a un String el valor es : " + varString);
+		System.out.println("El valor de la variable double es:  " + varDouble);
+		System.out.println("Convirtiéndola a un int el valor es :  " + varInt);
+		System.out.println("Convirtiéndola a un float el valor es :  " + varFloat);
+		System.out.println("Convirtiéndola a un String el valor es :  " + varString);
 
 	}
 
