@@ -3,7 +3,7 @@ package holaMundo;
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		System.out.println("Hola Mundo1234");
+		System.out.println("Hola Mundo con git por las dudas");
 
 	}
 
